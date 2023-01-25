@@ -1,0 +1,6 @@
+Jangan lupa disini kalian membuat environmentnya dengan cara:
+python -m venv env
+
+yang nantinya akan otomatis membuat folder env nya sendiri
+dan untuk runningnya kalian bisa dengan cara:
+env\scripts\activate
