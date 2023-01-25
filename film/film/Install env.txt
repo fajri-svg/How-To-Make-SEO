@@ -1,0 +1,2 @@
+Jangan lupa disini kalian membuat environmentnya dengan cara:
+python -m venv env
